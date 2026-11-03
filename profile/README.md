@@ -13,9 +13,10 @@ upstream firmware – and follows the result into the documents a factory hands 
 
 ### Posts
 
-*Not yet published. Each is listed with the day it goes out, and becomes a link that day.*
+*Each is listed with the day it goes out, and becomes a link that day.*
 
-- **Absent is not healthy** – what OpenBMC's configuration corpus declares, and what upstream firmware reports.
+- **[Absent is not healthy](https://github.com/james-sheen/absent-is-not-healthy/blob/master/posts/2026-11-03-absent-is-not-healthy.md)**
+  – what OpenBMC's configuration corpus declares, and what upstream firmware reports.
   3 November 2026.
 - **What an acceptance certificate should say** – the page a person reads, and the record behind it.
   17 November 2026.
