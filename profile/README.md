@@ -1,3 +1,14 @@
+## The Arbiter Project
+
+The Arbiter Project works toward problem solving that shows its work, in any domain. A domain is declared, not
+learned (what exists, what is observed on it, what must hold), because a model learned from observation can say what
+was seen but not what was intended. Against that declaration [the engine](https://github.com/james-sheen/arbiter)
+finds what is wrong and says what it could not check; a forecast made elsewhere is judged by the same axioms as
+everything else, and a plan says what each candidate does to each open case. Servers' firmware is the first domain
+carried end to end, in the report below; the same engine, unchanged, reads
+[factory lines](https://pypi.org/project/factory-line-audit/) and
+[public records](https://github.com/james-sheen/absent-is-not-healthy/tree/master/appendix-b).
+
 ## Absent is not healthy
 
 A server's baseboard management controller reports its sensors, and a reader that waits for a reading to cross a
